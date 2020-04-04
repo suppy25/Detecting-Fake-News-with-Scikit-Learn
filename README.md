@@ -24,8 +24,6 @@ Download the Github Package and Unzip and open the path in CMD Prompt and run:
 
       jupyter notebook
 
-Opens a http://localhost:8888/tree in Browser and Open the file's (Attempting to detect fake news.ipynb & Comparing Fake News Classifiers.ipynb )and say Run All
-
 If Run All gives no module error try installing the necassary modules through Pip install
 
 And Here you go with successful fake news detector!
