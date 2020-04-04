@@ -18,11 +18,11 @@ C:\Users\Vinay\AppData\Local\Programs\Python\Python36 C:\Users\Vinay\AppData\Loc
 
 Install Jupyter Notebook:
 
-pip install jupyter
+      pip install jupyter
 
 Download the Github Package and Unzip and open the path in CMD Prompt and run:
 
-jupyter notebook
+      jupyter notebook
 
 Opens a http://localhost:8888/tree in Browser and Open the file's (Attempting to detect fake news.ipynb & Comparing Fake News Classifiers.ipynb )and say Run All
 
